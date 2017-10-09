@@ -5,3 +5,5 @@
 Virtual Pseudonym Parties is based on Bryan Ford's idea for Pseudonym Parties, which groups all users together based on their location, and does simultaneous verification parties, where the proof is that you cannot be in two places at once. The Virtual Pseudonym Parties, rather than happening in the offline world, take place online, using video hangouts.
 
 In the context of the Pangea Jurisdiction, the POI protocol can be used to remove the need of biometric IDs. We believe using biometrics is dangerous, and can lead to dystopian consequences, for instance governments using the data to conduct genocides more effeciently. Through implementing POI as an individual verification in addition to the reputation system and public pseudo-anonymous keys, we hope that this will become a go-to option rather than the usage of biometrics in the world.
+
+The POI protocol was first developed as an anonymous identity solution for Johan Nygren's peer-to-peer Basic Income system, [resilience.me](https://gist.github.com/anonymous/ef8d4e4d7475d64763aae5aa03f58109) which has been in development since 2012.
