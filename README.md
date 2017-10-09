@@ -1,2 +1,2 @@
 # Proof-of-Individuality-
-Johan Nygren's POI protocol - virtual pseudonym parties - Bitnation use case 
+[Johan Nygren's](https://github.com/resilience-me) POI protocol - virtual pseudonym parties - Bitnation use case 
